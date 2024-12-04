@@ -1,11 +1,12 @@
 {
   "name": "npm-init-it",
   "version": "1.0.0",
-  "description": "A testing zone for Node stuff",
   "main": "index.js",
   "scripts": {
-    "test": "zoo"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "CJB",
-  "license": "MIT"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
