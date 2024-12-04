@@ -1,0 +1,11 @@
+{
+  "name": "npm-init-it",
+  "version": "1.0.0",
+  "description": "A testing zone for Node stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "zoo"
+  },
+  "author": "CJB",
+  "license": "MIT"
+}
